@@ -1,7 +1,8 @@
-# Seja bem-vindo!
-## Me chamo Gerson Rocha e esse é um pouco
+<img align="right" width="400" height="400" src="https://media1.giphy.com/media/3o6ozjHwzMA4ZTqM5a/source.gif">
 
-Sou um profissional de suporte de TI. Recentemente, concluiu o Programa “Certificado Profissional de Suporte de TI do Google” - um programa de suporte de TI de oito meses que abrange solução de problemas, atendimento ao cliente, redes, sistemas operacionais, administração de sistemas e segurança e inclui laboratórios práticos.
+# Seja bem-vindo!
+
+Sou um profissional de suporte de TI. Recentemente, concluí o “Certificado Profissional de Suporte de TI do Google” - um programa de suporte de TI de oito meses que abrange solução de problemas, atendimento ao cliente, redes, sistemas operacionais, administração de sistemas e segurança, incluindo laboratórios práticos.
 
 
 ## Sobre mim 
