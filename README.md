@@ -1,11 +1,10 @@
 <img align="right" src="https://media1.giphy.com/media/3o6ozjHwzMA4ZTqM5a/source.gif">
 
-# Seja bem-vindo!
+# Welcome!
 
-Sou um profissional de suporte de TI. Recentemente, concluí o “Certificado Profissional de Suporte de TI do Google” - um programa de suporte de TI de oito meses que abrange solução de problemas, atendimento ao cliente, redes, sistemas operacionais, administração de sistemas e segurança, incluindo laboratórios práticos.
+I am an IT support professional. Recently, complete the "Google IT Professional Support Certificate" - an eight-month IT support program for troubleshooting, customer service, networking, operating systems, systems administration and security, including hands-on labs.
 
-
-## Sobre mim 
+## About me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gersonrocha9)](https://github.com/gersonrocha9)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerson-rocha-013077174/)](https://www.linkedin.com/in/gerson-rocha-013077174/)
