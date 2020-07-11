@@ -2,7 +2,7 @@
 
 # Welcome!
 
-I am an IT support professional. Recently, complete the "Google IT Professional Support Certificate" - an eight-month IT support program for troubleshooting, customer service, networking, operating systems, systems administration and security, including hands-on labs.
+I'm an IT support professional. Recently, complete the "Google IT Professional Support Certificate" - an eight-month IT support program for troubleshooting, customer service, networking, operating systems, systems administration and security, including hands-on labs.
 
 ## About me:
 
