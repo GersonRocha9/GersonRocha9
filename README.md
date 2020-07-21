@@ -2,7 +2,7 @@
 
 # Welcome!
 
-I'm an IT support professional. Recently, complete the "Google IT Professional Support Certificate" - an eight-month IT support program for troubleshooting, customer service, networking, operating systems, systems administration and security, including hands-on labs.
+Web and Mobile Development student, focused on React, JavaScript, NodeJS, MongoDB, HTML, CSS and Bulma
 
 ## About me:
 
