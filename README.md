@@ -1,5 +1,3 @@
-<img align="right" src="https://media1.giphy.com/media/3o6ozjHwzMA4ZTqM5a/source.gif">
-
 # Welcome!
 
 Web and Mobile Development student, focused on React, JavaScript, NodeJS, MongoDB, HTML, CSS and Bulma
