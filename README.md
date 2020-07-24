@@ -1,6 +1,6 @@
 # Welcome!
 
-Web and Mobile Development student, focused on React, JavaScript, NodeJS, MongoDB, HTML, CSS and Bulma
+Web and Mobile Development student.
 
 ## About me:
 
