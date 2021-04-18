@@ -1,6 +1,6 @@
 # Welcome!
 
-Web and Mobile Development student.
+Software Developer
 
 ## About me:
 
