@@ -1,6 +1,8 @@
 # Welcome!
 
-Software Developer
+Sou estudante de Sistemas de Informação no Instituto Federal Fluminense. Comecei a estudar desenvolvimento web e mobile em Julho de 2020 e tenho estudado principalmente: HTML, CSS, JavaScript, React, React-Native, NodeJS.
+
+Em Abril de 2021, me tornei aluno da Origamid para aprofundar meus estudos em Front-end e UX/UI. Logo após, me tornei aluno das trilhas ReactJS e React Native do Ignite da Rocketseat.
 
 ## About me:
 
