@@ -1,12 +1,18 @@
 # Welcome!
 
-Sou estudante de Sistemas de Informação no Instituto Federal Fluminense. Comecei a estudar desenvolvimento web e mobile em Julho de 2020 e tenho estudado principalmente: HTML, CSS, JavaScript, React, React-Native, NodeJS.
-
-Em Abril de 2021, me tornei aluno da Origamid para aprofundar meus estudos em Front-end e UX/UI. Logo após, me tornei aluno das trilhas ReactJS e React Native do Ignite da Rocketseat.
-
 ## About me:
 
-[![Gerson Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=GersonRocha9)](https://github.com/anuraghazra/github-readme-stats)
+I am a student of Information Systems at Instituto Federal Fluminense. I started studying web and mobile development in July 2020 and I have been studying mainly: HTML, CSS, JavaScript, React, React-Native, NodeJS.
+
+In April 2021, I became a student at Origamid to deepen my studies in Front-end and UX / UI using Adobe XD, Figma, HTML, CSS, Bootstrap, JavaScript ES6, JQuery, ReactJS, Redux, Wordpress and WooCommerce.
+
+Soon after, I became a student on the ReactJS and React Native tracks from the Rocketseat bootcamp. I deepened my studies in the concepts of ReactJS, React Native, Webpack, Babel, Webpack Dev Server, SASS, Source Maps, Fast Refresh
+
+## My GitHub Stats:
+
+![Gerson Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=GersonRocha9&show_icons=true&theme=great-gatsby)
+
+## Contact:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gersonrocha9)](https://github.com/gersonrocha9)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerson-rocha-013077174/)](https://www.linkedin.com/in/gerson-rocha-013077174/)
