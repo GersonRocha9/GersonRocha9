@@ -1,4 +1,4 @@
-<img align="right" widht="250" height="250" src="https://content.gnoss.ws/imagenes/Usuarios/ImagenesCKEditor/989fc5b2-d0cc-419e-befa-c575b97b9160/c6699bd3-3658-4705-b70a-75bbd88a9f7f.png">
+<img align="right" widht="200" height="200" src="https://content.gnoss.ws/imagenes/Usuarios/ImagenesCKEditor/989fc5b2-d0cc-419e-befa-c575b97b9160/c6699bd3-3658-4705-b70a-75bbd88a9f7f.png">
 
 
 ![Gerson Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=GersonRocha9&show_icons=true&theme=great-gatsby)
