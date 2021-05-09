@@ -14,6 +14,7 @@ Soon after, I became a student on the ReactJS and React Native tracks from the R
 ## My GitHub Stats:
 
 ![Gerson Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=GersonRocha9&show_icons=true&theme=great-gatsby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GersonRocha9&theme=great-gatsby&layout=compact)](https://github.com/GersonRocha9/github-readme-stats)
 
 ## Contact:
 
