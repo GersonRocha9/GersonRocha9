@@ -9,8 +9,6 @@ I am a student of Information Systems at Instituto Federal Fluminense. I started
 
 In April 2021, I became a student at Origamid to deepen my studies in Front-end and UX / UI using Adobe XD, Figma, HTML, CSS, Bootstrap, JavaScript ES6, JQuery, ReactJS, Redux, Wordpress and WooCommerce.
 
-Soon after, I became a student on the ReactJS and React Native tracks from the Rocketseat bootcamp. I deepened my studies in the concepts of ReactJS, React Native, Webpack, Babel, Webpack Dev Server, SASS, Source Maps, Fast Refresh.
-
 ## My GitHub Stats:
 
 ![Gerson Rocha GitHub stats](https://github-readme-stats.vercel.app/api?username=GersonRocha9&show_icons=true&theme=great-gatsby)
