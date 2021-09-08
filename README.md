@@ -5,7 +5,7 @@
 
 ## About me:
 
-I am a student of Information Systems at Instituto Federal Fluminense. I started studying web and mobile development in July 2020 and I have been studying mainly: HTML, CSS, JavaScript, React, React-Native, NodeJS.
+I am a student of Information Systems at Instituto Federal Fluminense. I started studying web and mobile development in July 2020 and I have been studying mainly: HTML, CSS, JavaScript, React, VueJS and NodeJS.
 
 In April 2021, I became a student at Origamid to deepen my studies in Front-end and UX / UI using Adobe XD, Figma, HTML, CSS, Bootstrap, JavaScript ES6, JQuery, ReactJS, Redux, Wordpress and WooCommerce.
 
