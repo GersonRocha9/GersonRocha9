@@ -1,4 +1,4 @@
-<img align="right" widht="200" height="200" src="https://mysterytechsol.com/wp-content/uploads/2021/02/web9.png">
+<img align="right" widht="200" height="200" src="https://indylogix.com/wp-content/uploads/2020/10/why-choose-front-end-developer-indylogix-solutions.png">
 
 
 # Welcome!
