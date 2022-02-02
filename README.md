@@ -2,7 +2,7 @@
 
 I'm a Front-End Engineer from Brazil 🇧🇷  working remotely for [Digital Business](https://www.digitalbusiness.com.br/en). Currently I've been studying and focusing on the ReactJS ecosystem with TypeScript, GraphQL, Redux, MaterialUI, NestJS, NodeJS, Postgres, Docker, Git and GitHub and React Native.
 
-If you would like to discuss these things, you can send me [an email](mailto:gersonrocha9@gmail.com) or DM me on [Twitter](https://twitter.com/@GersonRoch9) (the best way to talk with me). I'm looking forward to connecting with you :)
+If you would like to discuss these things, you can send me [an email](mailto:gersonrocha9@gmail.com) or DM me on [Twitter](https://twitter.com/@GersonRoch9). I'm looking forward to connecting with you :)
 
 
 ## Skills:
