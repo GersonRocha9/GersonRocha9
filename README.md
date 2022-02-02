@@ -13,7 +13,6 @@ If you would like to discuss these things, you can send me [an email](mailto:ger
 ![Github Badge](https://img.shields.io/badge/material%20ui-%230081cb.svg?logo=material-ui&logoColor=white&style=for-the-badge)
 ![Github Badge](https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge)
 ![Github Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Github Badge](https://img.shields.io/badge/postgres-%23336791.svg?logo=postgresql&logoColor=white&style=for-the-badge)
 
 
 ## Contact:
