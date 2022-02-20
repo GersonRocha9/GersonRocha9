@@ -20,3 +20,6 @@ If you would like to discuss these things, you can send me [an email](mailto:ger
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerson-rocha-013077174/)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5522999534259&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gersonrocha9@gmail.com)
+
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GersonRocha9&layout=compact&langs_count=6&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
