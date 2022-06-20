@@ -1,6 +1,6 @@
 **Hey, I'm Gerson Rocha! 👋**
 
-I'm a Front-End Engineer from Brazil 🇧🇷  working remotely for [Digital Business](https://www.digitalbusiness.com.br/en). Currently I've been studying and focusing on the ReactJS ecosystem with TypeScript, GraphQL, Redux, MaterialUI, NestJS, NodeJS, Postgres, Docker, Git and GitHub and React Native.
+I'm a Front-End Engineer from Brazil 🇧🇷  working remotely for [Digital Business](https://www.digitalbusiness.com.br/en). Currently I've been studying and focusing on the ReactJS ecosystem with TypeScript, NextJS, GraphQL, Tailwind, React Native, GraphCMS, Apollo, Git and GitHub.
 
 If you would like to discuss these things, you can send me [an email](mailto:gersonrocha9@gmail.com) or DM me on [Twitter](https://twitter.com/@GersonRoch9). I'm looking forward to connecting with you :)
 
@@ -9,9 +9,12 @@ If you would like to discuss these things, you can send me [an email](mailto:ger
 ![Github Badge](https://img.shields.io/badge/typescript-%23007acc.svg?logo=typescript&logoColor=white&style=for-the-badge)
 ![Github Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Github Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Github Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Github Badge](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Github Badge](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![Github Badge](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Github Badge](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
-![Github Badge](https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge)
+
 
 
 
