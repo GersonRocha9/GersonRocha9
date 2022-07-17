@@ -2,7 +2,7 @@
 
 I'm a Front-End Engineer from Brazil 🇧🇷  working remotely for [nave.rs](https://nave.rs/). Currently I've been studying and focusing on the ReactJS ecosystem with TypeScript, NextJS, GraphQL, Tailwind, React Native, GraphCMS, Apollo, Git and GitHub.
 
-If you would like to discuss these things, you can send me [an email](mailto:gersonrocha9@gmail.com) or DM me on [Twitter](https://twitter.com/@GersonRoch9). I'm looking forward to connecting with you :)
+If you would like to discuss these things, you can send me [an email](mailto:gersonrocha9@gmail.com). I'm looking forward to connecting with you :)
 
 
 ## Skills:
