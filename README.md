@@ -1,6 +1,6 @@
 **Hey, I'm Gerson Rocha! 👋**
 
-I'm a Software Engineer from Brazil 🇧🇷  working remotely for [nav9](https://nav9.tech). Currently I've been studying and focusing on the ReactJS ecosystem with TypeScript, NextJS, GraphQL, Tailwind, React Native, GraphCMS, Apollo, Git and GitHub.
+I'm a Software Engineer from Brazil 🇧🇷  working remotely for [nav9](https://nav9.tech) focused on the ReactJS ecosystem with TypeScript, NextJS, GraphQL, Zustand, Git. I also have experience with mobile development working with React Native and I am currently studying and evolving with native iOS development using Swift.
 
 If you would like to discuss these things, you can send me [an email](mailto:gersonrocha9@gmail.com). I'm looking forward to connecting with you :)
 
@@ -11,10 +11,9 @@ If you would like to discuss these things, you can send me [an email](mailto:ger
 ![Github Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Github Badge](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Github Badge](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Github Badge](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![Github Badge](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Github Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
+![Github Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Github Badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Github Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
 
