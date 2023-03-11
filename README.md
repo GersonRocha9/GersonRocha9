@@ -1,6 +1,6 @@
 **Hey, I'm Gerson Rocha! 👋**
 
-I'm a Software Engineer from Brazil 🇧🇷  working remotely for [nav9](https://nav9.tech) focused on the ReactJS ecosystem with TypeScript, NextJS, GraphQL, Zustand, Git. I also have experience with mobile development working with React Native and I am currently studying and evolving with native iOS development using Swift.
+I'm a Software Engineer from Brazil 🇧🇷  focused on the ReactJS ecosystem with TypeScript, NextJS, GraphQL, Zustand, Git. I also have experience with mobile development working with React Native and I am currently studying and evolving with native iOS development using Swift.
 
 If you would like to discuss these things, you can send me [an email](mailto:gersonrocha9@gmail.com). I'm looking forward to connecting with you :)
 
