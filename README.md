@@ -4,17 +4,17 @@ Software developer with 2 years of experience, adding value to customers through
 
 Experience in:
 
-✔️ TypeScript and CSS-In-JS (styled-components and @shopify/restyle);
-✔️ State management (Redux, Redux Toolkit, Zustand, Context API and custom hooks);
-✔️ Unit testing frameworks like Jest and React Native Testing Library;
-✔️ Write reusable code for UI components with Storybook.
+✔️ TypeScript and CSS-In-JS (styled-components and @shopify/restyle); <br />
+✔️ State management (Redux, Redux Toolkit, Zustand, Context API and custom hooks); <br />
+✔️ Unit testing frameworks like Jest and React Native Testing Library; <br />
+✔️ Write reusable code for UI components with Storybook. <br />
 ✔️ Programming, refactoring and debugging skills. (Experience in transforming components of old classes into components based on Hooks);
 
 Other skills:
 
-✔️ Experience working remotely on teams that use agile practices such as Scrum and Kanban.
-✔️ Regardless, I always have a proactive attitude with a focus on solving problems.
-✔️ Enjoys writing well-designed, testable and efficient code;
+✔️ Experience working remotely on teams that use agile practices such as Scrum and Kanban. <br />
+✔️ Regardless, I always have a proactive attitude with a focus on solving problems. <br />
+✔️ Enjoys writing well-designed, testable and efficient code; <br />
 ✔️ Self-taught passionate and curious about creating and building things;
 
 
