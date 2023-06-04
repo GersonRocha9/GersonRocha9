@@ -1,8 +1,21 @@
 **Hey, I'm Gerson Rocha! 👋**
 
-I'm a Software Engineer from Brazil 🇧🇷  focused on the ReactJS ecosystem with TypeScript, NextJS, GraphQL, Zustand, Git. I also have experience with mobile development working with React Native and I am currently studying and evolving with native iOS development using Swift.
+Software developer with 2 years of experience, adding value to customers through the development of innovative and functional applications with a focus on offering good usability interfaces and a quality experience for users. providing high quality software solutions with a focus on developing with React Native and React.
 
-If you would like to discuss these things, you can send me [an email](mailto:gersonrocha9@gmail.com). I'm looking forward to connecting with you :)
+Experience in:
+
+✔️ TypeScript and CSS-In-JS (styled-components and @shopify/restyle);
+✔️ State management (Redux, Redux Toolkit, Zustand, Context API and custom hooks);
+✔️ Unit testing frameworks like Jest and React Native Testing Library;
+✔️ Write reusable code for UI components with Storybook.
+✔️ Programming, refactoring and debugging skills. (Experience in transforming components of old classes into components based on Hooks);
+
+Other skills:
+
+✔️ Experience working remotely on teams that use agile practices such as Scrum and Kanban.
+✔️ Regardless, I always have a proactive attitude with a focus on solving problems.
+✔️ Enjoys writing well-designed, testable and efficient code;
+✔️ Self-taught passionate and curious about creating and building things;
 
 
 ## Skills:
