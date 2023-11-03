@@ -1,20 +1,22 @@
 **Hey, I'm Gerson Rocha! 👋**
 
-Software developer with 2 years of experience, adding value to customers through the development of innovative and functional applications with a focus on offering good usability interfaces and a quality experience for users. providing high quality software solutions with a focus on developing with React Native and React.
+Software developer with 2 years of experience, adding value to customers through the development of innovative and functional applications with a focus on offering good usability interfaces and a quality experience for users. providing high quality software solutions with a focus on developing with React, Node.js and React Native.
 
 Experience in:
 
-✔️ TypeScript and CSS-In-JS (styled-components and @shopify/restyle); <br />
-✔️ State management (Redux, Redux Toolkit, Zustand, Context API and custom hooks); <br />
-✔️ Unit testing frameworks like Jest and React Native Testing Library; <br />
-✔️ Write reusable code for UI components with Storybook. <br />
+✔️ TypeScript and CSS-In-JS (styled-components and @shopify/restyle);
+✔️ State management (Redux, Redux Toolkit, Zustand, Context API and custom hooks);
+✔️ Unit testing frameworks like Jest and React Native Testing Library;
+✔️ Write reusable code for UI components with Storybook.
 ✔️ Programming, refactoring and debugging skills. (Experience in transforming components of old classes into components based on Hooks);
+✔️ Developing chatbots with Node.js and Redis to enable real-time and interactive communication with users, enhancing user engagement and satisfaction;
+✔️ Leveraging Langchain for advanced chatbot functionalities, ensuring personalized and context-aware responses, and harnessing exclusive material to enrich the user experience.
 
 Other skills:
 
-✔️ Experience working remotely on teams that use agile practices such as Scrum and Kanban. <br />
-✔️ Regardless, I always have a proactive attitude with a focus on solving problems. <br />
-✔️ Enjoys writing well-designed, testable and efficient code; <br />
+✔️ Experience working remotely on teams that use agile practices such as Scrum and Kanban.
+✔️ Regardless, I always have a proactive attitude with a focus on solving problems.
+✔️ Enjoys writing well-designed, testable and efficient code;
 ✔️ Self-taught passionate and curious about creating and building things;
 
 
