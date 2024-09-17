@@ -1,10 +1,8 @@
 **Hey, I'm Gerson Rocha! 👋**
 
-With over three years of experience in software development, I have specialized in creating innovative and robust solutions using React Native for Android and iOS applications. From inception to publication, I manage the entire app lifecycle, implementing CI/CD pipelines with GitHub Actions and Fastlane to ensure efficient and continuous delivery. My portfolio includes several apps published on the App Store and Play Store, ranging from offline-first solutions to real-time geolocation apps with notifications for nearby users.
+With over three years of experience in software development, I have specialized in creating innovative and robust solutions using React Native for Android and iOS applications. I manage the entire app lifecycle from inception to publication, implementing CI/CD pipelines with GitHub Actions and Fastlane to ensure efficient and continuous delivery. My portfolio includes several apps published on the App Store and Play Store, ranging from offline-first solutions to real-time geolocation apps with notifications for nearby users.
 
-Additionally, I have experience in developing advanced chatbots using Langchain, React, Node.js, and Redis. These chatbots deliver personalized responses by leveraging machine learning training on proprietary documents, significantly enhancing user interaction and experience. I am always seeking new ways to integrate emerging technologies to solve complex problems and improve the functionality of digital products.
-
-React Native | TypeScript | JavaScript | Firebase | React Query | ReactJS | Jest | React Native Testing Library | CI/CD | Jest | Detox | Xcode | React Navigation | Zustand | Expo | Langchain | Node.js
+I also have experience developing advanced chatbots using Langchain, React, Node.js, and Redis. These chatbots deliver personalized responses by leveraging machine learning training on proprietary documents, significantly enhancing user interaction and experience. I am always seeking new ways to integrate emerging technologies to solve complex problems and improve the functionality of digital products.
 
 
 ## Skills:
