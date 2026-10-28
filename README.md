@@ -16,6 +16,13 @@ The apps I maintain today run on **140k+ active devices**.
 - ✅ **40+ Maestro E2E tests** covering critical flows, plus Jest and Detox
 - 👥 Led a team of up to **6 developers**: RFCs, coding standards, code review and pair programming
 
+### 🌱 Open source
+
+Contributions merged into the Expo ecosystem:
+
+- **[expo/expo#51370](https://github.com/expo/expo/pull/51370)** · `expo-notifications`: fixed an iOS `EXC_BAD_ACCESS` crash caused by concurrent access to pending notification handler tasks, traced from a production crash report
+- **[expo/orbit#343](https://github.com/expo/orbit/pull/343)** · Orbit: added support for **DeviceHub.app**, the Xcode 27 replacement for `Simulator.app`, restoring simulator launch and management on the new Xcode
+
 ### 🔭 What I work with
 
 - **Native features:** iOS Live Activities, widgets, Apple Health, Health Connect, biometric auth, push notifications, deep linking
